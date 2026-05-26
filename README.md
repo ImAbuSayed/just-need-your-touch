@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/just-need-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Just Need Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-need-your-touch/) |
+| **Get License** | [Commercial Licensing for Just Need Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-need-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I left the engine running in the drive
+> Just to feel the way you make me come alive
+> One look from you and all the walls come down
+> The only heaven in this sleeping town
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
