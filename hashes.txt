@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Just Need Your Touch
+
+This log tracks the cryptographic history and versioning for the song **Just Need Your Touch** (just-need-your-touch).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:25:50.223018 | `v1` | `62f906a1336186ab5262f85bf6afdb08494562cfdd6d867fc35e1ae1cb5ab8ce` | `5edd372a7437026281a9e04d98a83d4fc83be8189edc81ff9a05ab3566ef9f3e` | `2026-05-26_just-need-your-touch-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
